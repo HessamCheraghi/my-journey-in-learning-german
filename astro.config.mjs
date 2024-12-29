@@ -10,8 +10,8 @@ export default defineConfig({
     starlight({
       title: "Learn German",
       social: {
-        github: "",
-        email: "hessam.ch.rose@gmail.com",
+        github:
+          "https://github.com/HessamCheraghi/my-journey-in-learning-german/",
       },
       sidebar: [
         {
